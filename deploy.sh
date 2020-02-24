@@ -11,5 +11,5 @@ if [[ -d "$HOME/.themes/$themesname" ]];then
 fi
 
 # Copy the theme to ~/.themes
-cp -r "$(dirname $0)/$themesname" ~/.themes/
+cp -r "$(dirname $0)/$themesname/.themes/$themesname" ~/.themes/
 "$HOME/.themes/$themesname/deploy.sh"
