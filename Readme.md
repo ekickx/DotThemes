@@ -20,3 +20,11 @@ Deploy theme
 ## Amiyaa
 
 ![](https://raw.githubusercontent.com/ekickx/MyThemeCollection/master/.screenshot/Amiyaa.png?token=AGKAJVQ4SVR4TXSK2I4WCRC6LSRWA)
+
+
+
+## Note
+
+Btw, for the gtk theme, I generated it automatically with [warnai](https://github.com/reorr/warnai) by [reorr](https://github.com/reorr)
+
+
