@@ -7,7 +7,8 @@ esac
 
 # Check if the theme directory already exist
 if [[ -d "$HOME/.themes/$themesname" ]];then
-  rm -r "$HOME/.themes/$themesname" && mkdir -p "$HOME/.themes/$themesname"
+  rm -r "$HOME/.themes/$themesname"
+  mkdir -p "$HOME/.themes/$themesname"
 fi
 
 # Copy the theme to ~/.themes
