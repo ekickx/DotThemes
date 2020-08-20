@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 16.933 16.933"
+   id="svg35"
+   sodipodi:docname="user-desktop.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata39">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="833"
+     inkscape:window-height="480"
+     id="namedview37"
+     showgrid="false"
+     inkscape:zoom="3.6875"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg35" />
+  <defs
+     id="defs7">
+    <linearGradient
+       id="c"
+       x1="13.229"
+       x2="2.117"
+       y1="297"
+       y2="280.07"
+       gradientTransform="matrix(1.0714 0 0 1 -.605 -280.07)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#66bcff"
+         offset="0"
+         id="stop2"
+         style="stop-color:#476269;stop-opacity:1" />
+      <stop
+         stop-color="#b29aff"
+         offset="1"
+         id="stop4"
+         style="stop-color:#665b70;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g874">
+    <rect
+       fill="url(#c)"
+       id="rect9"
+       style="paint-order:stroke markers fill;opacity:0.99999999"
+       ry=".265"
+       height="12.171"
+       width="15.875"
+       y="2.381"
+       x=".529" />
+    <rect
+       id="rect11"
+       style="paint-order:stroke markers fill"
+       opacity=".35"
+       ry=".265"
+       height=".529"
+       width="1.058"
+       y="2.645"
+       x="1.587" />
+    <rect
+       id="rect13"
+       style="paint-order:stroke markers fill"
+       opacity=".35"
+       ry=".265"
+       height=".529"
+       width="2.646"
+       y="2.645"
+       x="7.144" />
+    <rect
+       id="rect15"
+       style="paint-order:stroke markers fill"
+       opacity=".35"
+       ry=".265"
+       height=".529"
+       width=".529"
+       y="2.645"
+       x="15.081" />
+    <rect
+       id="rect17"
+       style="paint-order:stroke markers fill"
+       opacity=".35"
+       ry=".265"
+       height=".529"
+       width=".794"
+       y="2.645"
+       x="14.023" />
+    <rect
+       id="rect19"
+       style="paint-order:stroke markers fill"
+       opacity=".35"
+       ry=".265"
+       height=".529"
+       width=".529"
+       y="2.645"
+       x="13.229" />
+    <path
+       id="path21"
+       style="paint-order:stroke markers fill"
+       stroke-width="3.7796"
+       opacity=".35"
+       fill="#fff"
+       d="m15.002 50.998c-1.1077 0-2 0.89233-2 2v2.002h38v-2.002c0-1.1077-0.89233-2-2-2h-34z"
+       transform="scale(.26458)" />
+    <g
+       id="g31"
+       fill="#ccdfff">
+      <rect
+         id="rect23"
+         style="paint-order:stroke markers fill"
+         ry=".132"
+         height="1.323"
+         width="1.323"
+         y="12.7"
+         x="4.498" />
+      <rect
+         id="rect25"
+         style="paint-order:stroke markers fill"
+         ry=".132"
+         height="1.323"
+         width="1.323"
+         y="12.7"
+         x="6.703" />
+      <rect
+         id="rect27"
+         style="paint-order:stroke markers fill"
+         ry=".132"
+         height="1.323"
+         width="1.323"
+         y="12.7"
+         x="8.908" />
+      <rect
+         id="rect29"
+         style="paint-order:stroke markers fill"
+         ry=".132"
+         height="1.323"
+         width="1.323"
+         y="12.7"
+         x="11.113" />
+    </g>
+    <path
+       opacity=".35"
+       id="path33"
+       style="paint-order:stroke markers fill"
+       d="m0.794 2.381a0.264 0.264 0 0 0-0.265 0.265v0.793h15.875v-0.793a0.264 0.264 0 0 0-0.264-0.265z" />
+  </g>
+</svg>
