@@ -4326,3 +4326,5 @@ filechooser placessidebar.sidebar scrollbar,
 @define-color wm_icon_unfocused_bg #2b2b2b;
 @define-color wm_icon_hover_bg #4b5262;
 @define-color wm_icon_active_bg #cac5c1;
+
+@import url('thunar.css');

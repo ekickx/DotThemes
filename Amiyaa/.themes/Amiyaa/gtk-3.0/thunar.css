@@ -1,0 +1,24 @@
+.thunar {
+  background-image:url("assets/thunar-sidebar.png");
+  background-repeat: no-repeat;
+}
+
+.thunar #location-toolbar {
+  padding: 5;
+  margin: 10 15 10 182;
+  box-shadow: 0 5px 6px rgba(0,0,0,0.19), 0 3px 3px rgba(0,0,0,0.23);
+}
+
+.thunar .sidebar {
+background: none;
+border: rgba(0,0,0,0);
+margin: 40 0 0 5;
+}
+
+.thunar .sidebar .view {
+  background: transparent;
+}
+
+.thunar .sidebar .view:not(:selected) {
+  background-color: transparent;
+}
