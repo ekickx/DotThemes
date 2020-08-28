@@ -1,0 +1,27 @@
+{
+    "wallpaper": "$HOME/.wallpaper/Amiyaa.png"
+    "alpha": "100",
+    "special": {
+        "background": "#2b2b2b",
+        "foreground": "#cac5c1",
+        "cursor": "#cac5c1"
+    },
+    "colors": {
+        "color0": "#2b2b2b",
+        "color1": "#3E5C64",
+        "color2": "#4D4B4F",
+        "color3": "#696261",
+        "color4": "#907466",
+        "color5": "#A28977",
+        "color6": "#698590",
+        "color7": "#cac5c1",
+        "color8": "#8d8987",
+        "color9": "#3E5C64",
+        "color10": "#4D4B4F",
+        "color11": "#696261",
+        "color12": "#907466",
+        "color13": "#A28977",
+        "color14": "#698590",
+        "color15": "#cac5c1"
+    }
+}
