@@ -5,7 +5,7 @@ current_workspace="$(wmctrl -d | grep "*" | cut -d " " -f 1)"
 previous_oppacity="$(cat ~/.config/tint2/tint2rc | sed -n 's/^.*\(#2b2b2b \)\(.*\)/\2/p')"
 
 # Show icon
-echo "$HOME/.config/tint2/menu.svg"
+echo "/home/ekickx/.config/tint2/icons/amiyaa-menu.svg"
 
 cat ~/.config/tint2/tint2rc | sed -i 's/\(#2b2b2b\)\(.*\)/\1 0/' ~/.config/tint2/tint2rc
 for i in $(wmctrl -l | grep -E "(^|\s)"$current_workspace"($|\s)" | cut -d " " -f 1); do
