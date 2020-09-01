@@ -1,0 +1,43 @@
+#!/usr/bin/env bash
+
+# Change terminal color scheme/palette
+cat ~/.cache/current-palette
+
+# Change xfce wallpaper
+xfconf-query --channel xfce4-desktop \
+  --property /backdrop/screen0/monitor0/workspace0/last-image \
+  --set ~/.wallpaper.png
+echo "Finished changing wallpaper"
+
+# Change Theme
+# Change xfwm4 (window manager) theme
+xfconf-query --channel xfwm4 \
+  --property /general/theme --set "Amiyaa"
+echo "Finished changing xfce/xfwm4 theme"
+# Change gtk theme
+xfconf-query --channel xsettings \
+  --property /Net/ThemeName --set "Amiyaa"
+echo "Finished changing gtk theme"
+# Change icon theme
+xfconf-query --channel xsettings \
+  --property /Net/IconThemeName --set "Amiyaa"
+echo "Finished changing icon theme"
+
+# Panel
+# Avoid multiple tint2 instances
+pkill tint2
+# Launch tint2 panel
+tint2 2> /dev/null &disown
+echo "Finished launching panel"
+
+# Compositing
+# Disable xfwm4 compositor
+xfconf-query --channel xfwm4 \
+  --property /general/use_compositing -s false
+# Enable picom
+picom 2> /dev/null &disown
+echo "Finished enabling compositor"
+
+# Notification
+pkill dunst
+notify-send "Finished Applying Theme Pack"
