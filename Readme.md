@@ -1,8 +1,8 @@
-> **Note**: This repository uses Git LFS to manage its image. Be sure to install Git LFS first before clone it
-
-<p align="center"><img src=".themes-logo.png" height="200rem"></p>
+<p align="center"><img src=".themes-logo.png"></p>
 
 ---
+
+> **Note**: This repository uses Git LFS to manage its image. Be sure to install Git LFS first before clone it
 
 ## What is this? 🤔
 
