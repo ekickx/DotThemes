@@ -1,45 +1,40 @@
-![](.themes-logo.png)
-
 > **Note**: This repository uses Git LFS to manage its image. Be sure to install Git LFS first before clone it
 
-# What is this?
+<p align="center"><img src=".themes-logo.png" height="200rem"></p>
 
-I use this repo for managing my configuration, such as **XFCE**, **Openbox**, **AwesomeWM**, etc in pack.  Btw, I'm inspired by [reorr's repo](https://github.com/reorr/my-theme-collection).
+---
 
-# Want to use it?
+## What is this? 🤔
 
-### Clone this repo
+I use this repo for managing my configuration, such as **XFCE**, **Openbox**, **AwesomeWM**, etc in pack. So basically it's for storing config on specific theme. And for general configuration, like keybinding, I store it on [myDotfiles](github.com/ekickx/myDotfiles) repo. Btw, This repo is inspired by [reorr's repo](https://github.com/reorr/my-theme-collection).
+
+## Want to use it?
+
+**Clone this repo**
 
 ```bash
 git clone https://github.com/ekickx/MyThemeCollection.git
 cd MyThemeCollection/
 ```
 
-### Deploy theme
+**Deploy theme**
 
 ```bash
 ./.deploy.sh <themename>
 ```
 
-#### Example
+## Preview
 
-```bash
-./.deploy.sh Amiyaa
-```
+<h3>
+ <details open>
+  <summary>Amiyaa</summary>
+   <br>
 
-**or**
+  ![](.screenshot/Amiyaa.png)
+ </details>
+</h3>
 
-```bash
-./.deploy.sh amiyaa
-```
-
-# Preview
-
-## Amiyaa
-
-![](.screenshot/Amiyaa.png)
-
-# Credit
+## Credit
 
 <img src="https://webusstatic.yo-star.com/ark_us_web/assets/159229525944611258/271087fc628298aee84bd210000370e6.png?x-oss-process=image/resize,w_180" align="right">
 
